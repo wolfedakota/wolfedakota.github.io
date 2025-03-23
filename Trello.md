@@ -9,4 +9,4 @@ This Trello board was used to manage Agile tasks and improvements for my CS499 e
 - **Labels & Checklists**: Categorizing tasks for better prioritization.
 
 ## Link to Board
-[View Trello Board]((https://trello.com/b/J3qX0OOU/snhu-travel))
+[View Trello Board](https://trello.com/b/J3qX0OOU/snhu-travel)
